@@ -2,6 +2,7 @@ package com.test.test_scholl.model;
 
 import java.util.Objects;
 
+
 public class Faculty {
 
     private Long id;
